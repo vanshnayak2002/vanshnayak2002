@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vanshnayak2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rxMGdDXp7lBa0rwFrN5xrd_UwVfZSMpy/view?usp=sharing](https://drive.google.com/file/d/1rxMGdDXp7lBa0rwFrN5xrd_UwVfZSMpy/view?usp=sharing)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
