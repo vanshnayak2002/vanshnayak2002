@@ -13,10 +13,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
 
-<a href="https://shumbularifa.com">
+<!--<a href="https://shumbularifa.com">
   <kbd>
   <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
-</a>
+</a> -->
  
  <a href="https://linktr.ee/shumbul">
   <kbd>
@@ -28,11 +28,11 @@
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
   
- <a href="https://www.instagram.com/shumbul.arifa/">
+<!-- <a href="https://www.instagram.com/shumbul.arifa/">
   <kbd>
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-
+-->
 <a href="https://www.instagram.com/_vanshnayak_02/?hl=en">
   <kbd>
   <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
