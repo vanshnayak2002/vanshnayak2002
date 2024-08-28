@@ -23,7 +23,7 @@
   <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
 </a>-->
    
-<a href="https://linkedin.com/in/shumbul">
+<a href="https://www.linkedin.com/in/vanshnayak">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
