@@ -58,10 +58,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Software Engineer at Microsoft
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
+- 🏢 I am a Software Engineer
+- 🏫 2024 B.Tech. graduate from UPES Dehardun
+- 💻 Former Intern at IBM
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
-- 📹 Subscribe on YouTube [Shumbul](http://yt.openinapp.co/shumbul)
+- 📹 LeetCode: [Vansh](https://leetcode.com/u/vanshnayak2002/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
-- 👯 Pronouns: She/Her
+- 👯 Pronouns: He/Him
