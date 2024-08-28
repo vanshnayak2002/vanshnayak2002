@@ -61,7 +61,6 @@
 - 🏢 I am a Software Engineer
 - 🏫 2024 B.Tech. graduate from UPES Dehardun
 - 💻 Former Intern at IBM
-- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
 - 📹 LeetCode: [Vansh](https://leetcode.com/u/vanshnayak2002/)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/vanshnayak2002/)
 - 👯 Pronouns: He/Him
