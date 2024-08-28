@@ -1,29 +1,67 @@
-<h1 align="center">Hi 👋, I'm Vansh Nayak</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+### Hey there :wave:
 
-<img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vansh+Nayak)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshnayak2002&label=Profile%20views&color=0e75b6&style=flat" alt="vanshnayak2002" /> </p>
+###### Glad to see you here :heart:
 
-- 🌱 I’m currently learning **Frontend frameworks**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vansh&label=Views&color=blue&style=plastic" alt="vansh" /> </p>
 
-- 💬 Ask me about **machine learning,java**
+<a href="http://yt.openinapp.co/shumbul">
+  <kbd>
+  <img align="centre" alt="YouTube shumbul" width="66px" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" />
+</a>
 
-- 📫 How to reach me **vanshnayak2002@gmail.com**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
 
+<a href="https://shumbularifa.com">
+  <kbd>
+  <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
+</a>
+ 
+ <a href="https://linktr.ee/shumbul">
+  <kbd>
+  <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
+</a>
+   
+<a href="https://linkedin.com/in/shumbul">
+  <kbd>
+  <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
   
+ <a href="https://www.instagram.com/shumbul.arifa/">
+  <kbd>
+  <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rocksalt02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rocksalt02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vanshnayak2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshnayak2002" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/shumbularifa/">
+  <kbd>
+  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+</a>
+  
+<a href="https://twitter.com/ShumbulArifa">
+<kbd>
+<img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
+</a>
+ 
+<a href="https://t.me/ShumbulArifa">
+  <kbd>
+  <img align="centre" alt="shumbul's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
+</a>
+ 
+<a href="https://devfolio.co/@shumbul_arifa">
+  <kbd>
+  <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshnayak2002&show_icons=true&locale=en&layout=compact" alt="vanshnayak2002" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshnayak2002&show_icons=true&locale=en" alt="vanshnayak2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshnayak2002&" alt="vanshnayak2002" /></p>
+- 🏢 I am a Software Engineer at Microsoft
+- 🏫 2022 B.Tech. graduate from NIT Karnataka
+- 💻 Former SDE Intern at Qualcomm, India
+- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
+- 📹 Subscribe on YouTube [Shumbul](http://yt.openinapp.co/shumbul)
+- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
+- 👯 Pronouns: She/Her
