@@ -5,11 +5,11 @@
 ###### Glad to see you here :heart:
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vansh&label=Views&color=blue&style=plastic" alt="vansh" /> </p>
-
+-->
 <a href="https://www.youtube.com/@vanshnayak4101">
   <kbd>
   <img align="centre" alt="YouTube shumbul" width="66px" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" />
-</a>-->
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
 
