@@ -17,11 +17,11 @@
   <kbd>
   <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
 </a> -->
- 
+ <!--
  <a href="https://linktr.ee/shumbul">
   <kbd>
   <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
-</a>
+</a>-->
    
 <a href="https://linkedin.com/in/shumbul">
   <kbd>
